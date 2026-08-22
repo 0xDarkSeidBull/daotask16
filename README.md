@@ -10,8 +10,8 @@ Every number in this guide (contract addresses, pool liquidity, price impact, br
 
 | File | What it is |
 |---|---|
-| `Unstick_Your_RBNT_Recovery_Playbook.pdf` | The full 13 page playbook, ready to read or print |
-| `Unstick_Your_RBNT_Recovery_Playbook.docx` | The same playbook, editable |
+| `Unstick_Your_RBNT_Recovery_Playbook_BrandKit.pdf` | The full 13 page playbook, ready to read or print |
+| `Unstick_Your_RBNT_Recovery_Playbook_BrandKit.docx` | The same playbook, editable |
 | `playbook.md` | Plain markdown source, used to build the website |
 
 ## What is inside the playbook
