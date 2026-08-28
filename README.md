@@ -12,7 +12,7 @@
 [![Read PDF](https://img.shields.io/badge/Read-PDF-EF5350?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/0xDarkSeidBull/daotask16/blob/main/rbnt_recovery.pdf)
 [![Read Docs](https://img.shields.io/badge/Read-Docs-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](https://github.com/0xDarkSeidBull/daotask16/blob/main/rbnt_recovery.docx)
 [![Live Site](https://img.shields.io/badge/Live-daotask16.test--hub.xyz-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://daotask16.test-hub.xyz)
-[![View Evidence](https://img.shields.io/badge/View-Evidence-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xDarkSeidBull/daotask16/tree/main/evidence)
+[![View Proof](https://img.shields.io/badge/View-Proof-1F2937?style=for-the-badge)](https://daotask16.test-hub.xyz/proof)
 
 A community support guide for the four most common ways RBNT gets stuck: wrong network CEX deposits, wrapped RBNT showing zero value, quote unavailable errors bridging back to Redbelly Network, and stranded stablecoin transfers.
 
@@ -54,7 +54,9 @@ Every number in this guide, contract addresses, pool liquidity, price impact, br
 <i>Redbelly's own team, in their official Discord support channel: "We never had rbnt on bsc. All RBNT on bsc is fake." This is the source behind the BNB Chain warning in Table A below.</i>
 </p>
 
-<p align="center"><i>Full screenshot sets: <a href="https://github.com/0xDarkSeidBull/daotask16/tree/main/evidence">Lucid Labs Bridge (14 screenshots)</a> &middot; <a href="https://github.com/0xDarkSeidBull/daotask16/tree/main/evidence2">Oku (9 screenshots)</a></i></p>
+<p align="center"><i>Browse every chain, tool by tool: <a href="https://daotask16.test-hub.xyz/proof">daotask16.test-hub.xyz/proof</a></i></p>
+
+<p align="center"><i>Raw files: <a href="https://github.com/0xDarkSeidBull/daotask16/tree/main/evidence">Lucid Labs Bridge (14 screenshots)</a> &middot; <a href="https://github.com/0xDarkSeidBull/daotask16/tree/main/evidence2">Oku (9 screenshots)</a></i></p>
 
 ---
 
